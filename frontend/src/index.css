@@ -1,0 +1,45 @@
+
+/* Minimal Editorial Theme */
+:root {
+  --bs-primary: #806b5d;
+  --bs-primary-rgb: 128, 107, 93;
+  --bs-link-color: #806b5d;
+  --bs-link-hover-color: #4b3c32;
+}
+
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #806b5d !important;
+  border-color: #806b5d !important;
+  color: white !important;
+}
+
+.btn-primary:hover {
+  background-color: #4b3c32 !important;
+  border-color: #4b3c32 !important;
+}
+
+.btn-outline-primary {
+  color: #806b5d !important;
+  border-color: #806b5d !important;
+  background-color: transparent !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #806b5d !important;
+  color: white !important;
+}
+
+.text-primary,
+.link-primary {
+  color: #806b5d !important;
+}
+
+.bg-primary {
+  background-color: #806b5d !important;
+}
+
+.border-primary {
+  border-color: #806b5d !important;
+}
